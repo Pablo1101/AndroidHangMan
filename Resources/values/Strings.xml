@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="player_prompt">Choose Player</string>  
+    <string-array name="player">
+      <item>Adam</item>
+      <item>Bryan</item>
+      <item>Charlie</item>
+      <item>Dylan</item>
+      <item>Eric</item>
+      <item>Frank</item>
+      <item>Gary</item>
+      <item>Harry</item>
+      <item>Ian</item>
+      <item>John</item>
+      <item>Kevin</item>
+      <item>Lucas</item>
+      <item>Mike</item>
+      <item>Nick</item>
+      <item>Oscar</item>
+      <item>Peter</item>
+      <item>Quinn</item>
+      <item>Ryan</item>
+
+
+
+
+
+    </string-array>
+</resources>

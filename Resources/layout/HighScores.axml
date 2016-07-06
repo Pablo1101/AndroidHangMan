@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/startpagenoose">
+    <TextView
+        android:text="your heading goes here"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lbltitle"
+        android:visibility="gone" />
+    <TextView
+        android:text="Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <TextView
+        android:text="Sub Heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lbldescription" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/arrow" />
+</LinearLayout>

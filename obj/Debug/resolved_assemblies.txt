@@ -1,0 +1,9 @@
+C:\Users\pablo\Documents\Visual Studio 2015\Projects\XHangman1\XHangman1\obj\Debug\assemblies\XHangman1.dll
+C:\Users\pablo\Documents\Visual Studio 2015\Projects\XHangman1\XHangman1\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\pablo\Documents\Visual Studio 2015\Projects\XHangman1\XHangman1\obj\Debug\assemblies\mscorlib.dll
+C:\Users\pablo\Documents\Visual Studio 2015\Projects\XHangman1\XHangman1\obj\Debug\assemblies\System.Core.dll
+C:\Users\pablo\Documents\Visual Studio 2015\Projects\XHangman1\XHangman1\obj\Debug\assemblies\System.dll
+C:\Users\pablo\Documents\Visual Studio 2015\Projects\XHangman1\XHangman1\obj\Debug\assemblies\System.Xml.dll
+C:\Users\pablo\Documents\Visual Studio 2015\Projects\XHangman1\XHangman1\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\pablo\Documents\Visual Studio 2015\Projects\XHangman1\XHangman1\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\pablo\Documents\Visual Studio 2015\Projects\XHangman1\XHangman1\obj\Debug\assemblies\System.ServiceModel.Internals.dll
